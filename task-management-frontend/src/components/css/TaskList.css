@@ -1,0 +1,35 @@
+.task-card {
+    padding: 1rem ;
+    height: 100% ;
+    border-radius: 1rem !important;
+    color: #24293e !important;
+}
+
+.task-card:hover {
+    box-shadow: 0.5rem 0.5rem 1.5rem rgb(180, 176, 176) ;
+    transition: box-shadow 0.3s ease;
+}
+
+.Box{
+    margin: 2rem 0 2rem;
+    display: flex;
+    align-items: center;
+}
+
+.Edit-Modal-Box{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 100%;
+    max-width: 40rem;
+    background-color: #fff;
+    box-shadow: 0 0 24px rgba(0, 0, 0, 0.1);
+    padding: 1rem;
+    border-radius: 1rem;
+}
+
+hr{
+    border: 1px solid black;
+    margin: 1rem 0;
+}

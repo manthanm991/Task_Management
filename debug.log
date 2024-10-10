@@ -1,0 +1,22 @@
+Not Found: /api/tasks/
+"GET /api/tasks/ HTTP/1.1" 404 179
+Not Found: /api/tasks/
+"GET /api/tasks/ HTTP/1.1" 404 179
+Bad Request: /api-token-auth/
+"POST /api-token-auth/ HTTP/1.1" 400 68
+Not Found: /api/users/signup/
+"POST /api/users/signup/ HTTP/1.1" 404 179
+Not Found: /api/users/signup/
+"POST /api/users/signup/ HTTP/1.1" 404 179
+Bad Request: /api/tasks/
+"POST /api/tasks/ HTTP/1.1" 400 48
+Bad Request: /api/tasks/
+"POST /api/tasks/ HTTP/1.1" 400 48
+Bad Request: /api/tasks/
+"POST /api/tasks/ HTTP/1.1" 400 48
+Bad Request: /api/tasks/
+"POST /api/tasks/ HTTP/1.1" 400 48
+Bad Request: /api/tasks/
+"POST /api/tasks/ HTTP/1.1" 400 85
+Bad Request: /api/tasks/
+"POST /api/tasks/ HTTP/1.1" 400 48

@@ -20,3 +20,254 @@ Bad Request: /api/tasks/
 "POST /api/tasks/ HTTP/1.1" 400 85
 Bad Request: /api/tasks/
 "POST /api/tasks/ HTTP/1.1" 400 48
+Not Found: /
+"GET / HTTP/1.1" 404 179
+Not Found: /static/admin/css/base.css
+"GET /static/admin/css/base.css HTTP/1.1" 404 179
+Not Found: /static/admin/css/dark_mode.css
+Not Found: /static/admin/css/nav_sidebar.css
+Not Found: /static/admin/css/login.css
+"GET /static/admin/css/login.css HTTP/1.1" 404 179
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 404 179
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 404 179
+Not Found: /static/admin/css/responsive.css
+Not Found: /static/admin/js/nav_sidebar.js
+Not Found: /static/admin/js/theme.js
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 404 179
+"GET /static/admin/css/responsive.css HTTP/1.1" 404 179
+"GET /static/admin/js/theme.js HTTP/1.1" 404 179
+Not Found: /static/admin/css/base.css
+"GET /static/admin/css/base.css HTTP/1.1" 404 179
+Not Found: /static/admin/css/dark_mode.css
+Not Found: /static/admin/css/nav_sidebar.css
+Not Found: /static/admin/css/login.css
+Not Found: /static/admin/css/responsive.css
+Not Found: /static/admin/js/theme.js
+Not Found: /static/admin/js/nav_sidebar.js
+"GET /static/admin/css/login.css HTTP/1.1" 404 179
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 404 179
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 404 179
+"GET /static/admin/css/responsive.css HTTP/1.1" 404 179
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 404 179
+"GET /static/admin/js/theme.js HTTP/1.1" 404 179
+Not Found: /static/admin/css/base.css
+Not Found: /static/admin/css/dark_mode.css
+Not Found: /static/admin/css/nav_sidebar.css
+Not Found: /static/admin/css/login.css
+Not Found: /static/admin/css/responsive.css
+Not Found: /static/admin/js/theme.js
+"GET /static/admin/css/base.css HTTP/1.1" 404 179
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 404 179
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 404 179
+"GET /static/admin/css/login.css HTTP/1.1" 404 179
+"GET /static/admin/css/responsive.css HTTP/1.1" 404 179
+"GET /static/admin/js/theme.js HTTP/1.1" 404 179
+Not Found: /static/admin/js/nav_sidebar.js
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 404 179
+Not Found: /static/admin/css/base.css
+"GET /static/admin/css/base.css HTTP/1.1" 404 179
+Not Found: /static/admin/css/dark_mode.css
+Not Found: /static/admin/css/nav_sidebar.css
+Not Found: /static/admin/css/responsive.css
+Not Found: /static/admin/js/theme.js
+Not Found: /static/admin/js/nav_sidebar.js
+Not Found: /static/admin/css/login.css
+"GET /static/admin/js/theme.js HTTP/1.1" 404 179
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 404 179
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 404 179
+"GET /static/admin/css/responsive.css HTTP/1.1" 404 179
+"GET /static/admin/css/login.css HTTP/1.1" 404 179
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 404 179
+Not Found: /static/admin/css/base.css
+Not Found: /static/admin/css/nav_sidebar.css
+Not Found: /static/admin/css/dark_mode.css
+Not Found: /static/admin/css/responsive.css
+Not Found: /static/admin/css/login.css
+"GET /static/admin/css/base.css HTTP/1.1" 404 179
+Not Found: /static/admin/js/theme.js
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 404 179
+Not Found: /static/admin/js/nav_sidebar.js
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 404 179
+"GET /static/admin/css/responsive.css HTTP/1.1" 404 179
+"GET /static/admin/css/login.css HTTP/1.1" 404 179
+"GET /static/admin/js/theme.js HTTP/1.1" 404 179
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 404 179
+Not Found: /static/admin/css/base.css
+Not Found: /static/admin/css/dark_mode.css
+"GET /static/admin/css/base.css HTTP/1.1" 404 179
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 404 179
+Not Found: /static/admin/css/nav_sidebar.css
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 404 179
+Not Found: /static/admin/css/login.css
+Not Found: /static/admin/css/responsive.css
+Not Found: /static/admin/js/theme.js
+Not Found: /static/admin/js/nav_sidebar.js
+"GET /static/admin/css/login.css HTTP/1.1" 404 179
+"GET /static/admin/css/responsive.css HTTP/1.1" 404 179
+"GET /static/admin/js/theme.js HTTP/1.1" 404 179
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 404 179
+Not Found: /
+"GET / HTTP/1.1" 404 179
+Not Found: /
+"GET / HTTP/1.1" 404 179
+Not Found: /admin
+"GET /admin HTTP/1.1" 404 179
+Not Found: /static/admin/css/base.css
+"GET /static/admin/css/base.css HTTP/1.1" 404 179
+Not Found: /static/admin/css/dark_mode.css
+Not Found: /static/admin/css/nav_sidebar.css
+Not Found: /static/admin/css/login.css
+Not Found: /static/admin/css/responsive.css
+Not Found: /static/admin/js/theme.js
+Not Found: /static/admin/js/nav_sidebar.js
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 404 179
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 404 179
+"GET /static/admin/css/login.css HTTP/1.1" 404 179
+"GET /static/admin/js/theme.js HTTP/1.1" 404 179
+"GET /static/admin/css/responsive.css HTTP/1.1" 404 179
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 404 179
+Not Found: /static/admin/css/base.css
+Not Found: /static/admin/css/dark_mode.css
+Not Found: /static/admin/css/nav_sidebar.css
+Not Found: /static/admin/css/login.css
+Not Found: /static/admin/css/responsive.css
+Not Found: /static/admin/js/theme.js
+"GET /static/admin/css/base.css HTTP/1.1" 404 179
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 404 179
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 404 179
+"GET /static/admin/css/responsive.css HTTP/1.1" 404 179
+"GET /static/admin/css/login.css HTTP/1.1" 404 179
+"GET /static/admin/js/theme.js HTTP/1.1" 404 179
+Not Found: /static/admin/js/nav_sidebar.js
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 404 179
+Not Found: /static/admin/css/base.css
+"GET /static/admin/css/base.css HTTP/1.1" 404 179
+Not Found: /static/admin/css/dark_mode.css
+Not Found: /static/admin/css/login.css
+Not Found: /static/admin/css/nav_sidebar.css
+Not Found: /static/admin/css/responsive.css
+Not Found: /static/admin/js/theme.js
+Not Found: /static/admin/js/nav_sidebar.js
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 404 179
+"GET /static/admin/css/login.css HTTP/1.1" 404 179
+"GET /static/admin/js/theme.js HTTP/1.1" 404 179
+"GET /static/admin/css/responsive.css HTTP/1.1" 404 179
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 404 179
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 404 179
+Not Found: /static/admin/css/base.css
+"GET /static/admin/css/base.css HTTP/1.1" 404 179
+Not Found: /static/admin/css/dark_mode.css
+Not Found: /static/admin/css/nav_sidebar.css
+Not Found: /static/admin/css/dashboard.css
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 404 179
+Not Found: /static/admin/css/responsive.css
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 404 179
+"GET /static/admin/css/dashboard.css HTTP/1.1" 404 179
+"GET /static/admin/css/responsive.css HTTP/1.1" 404 179
+Not Found: /static/admin/js/theme.js
+Not Found: /static/admin/js/nav_sidebar.js
+"GET /static/admin/js/theme.js HTTP/1.1" 404 179
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 404 179
+Not Found: /static/admin/css/base.css
+"GET /static/admin/css/base.css HTTP/1.1" 404 179
+Not Found: /static/admin/css/dark_mode.css
+Not Found: /static/admin/css/nav_sidebar.css
+Not Found: /static/admin/css/changelists.css
+Not Found: /static/admin/js/jquery.init.js
+Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 404 179
+"GET /static/admin/css/changelists.css HTTP/1.1" 404 179
+"GET /static/admin/js/jquery.init.js HTTP/1.1" 404 179
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 404 179
+Not Found: /static/admin/css/responsive.css
+Not Found: /static/admin/js/admin/RelatedObjectLookups.js
+"GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+Not Found: /static/admin/js/actions.js
+Not Found: /static/admin/js/core.js
+Not Found: /static/admin/js/urlify.js
+"GET /static/admin/css/responsive.css HTTP/1.1" 404 179
+"GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 404 179
+"GET /static/admin/js/actions.js HTTP/1.1" 404 179
+Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+Not Found: /static/admin/js/prepopulate.js
+"GET /static/admin/js/core.js HTTP/1.1" 404 179
+"GET /static/admin/js/urlify.js HTTP/1.1" 404 179
+"GET /static/admin/js/prepopulate.js HTTP/1.1" 404 179
+"GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+Not Found: /static/admin/js/theme.js
+"GET /static/admin/js/theme.js HTTP/1.1" 404 179
+Not Found: /static/admin/js/nav_sidebar.js
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 404 179
+Not Found: /static/admin/js/filters.js
+"GET /static/admin/js/filters.js HTTP/1.1" 404 179
+Not Found: /static/admin/css/responsive.css
+"GET /static/admin/css/responsive.css HTTP/1.1" 404 179
+Not Found: /static/admin/css/base.css
+"GET /static/admin/css/base.css HTTP/1.1" 404 179
+Not Found: /static/admin/css/dark_mode.css
+Not Found: /static/admin/css/nav_sidebar.css
+Not Found: /static/admin/css/responsive.css
+Not Found: /static/admin/js/nav_sidebar.js
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 404 179
+Not Found: /static/admin/js/theme.js
+"GET /static/admin/css/responsive.css HTTP/1.1" 404 179
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 404 179
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 404 179
+"GET /static/admin/js/theme.js HTTP/1.1" 404 179
+Not Found: /static/admin/css/base.css
+"GET /static/admin/css/base.css HTTP/1.1" 404 179
+Not Found: /static/admin/css/dark_mode.css
+Not Found: /static/admin/css/nav_sidebar.css
+Not Found: /static/admin/css/login.css
+Not Found: /static/admin/css/responsive.css
+Not Found: /static/admin/js/theme.js
+Not Found: /static/admin/js/nav_sidebar.js
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 404 179
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 404 179
+"GET /static/admin/css/login.css HTTP/1.1" 404 179
+"GET /static/admin/css/responsive.css HTTP/1.1" 404 179
+"GET /static/admin/js/theme.js HTTP/1.1" 404 179
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 404 179
+Not Found: /static/admin/css/base.css
+Not Found: /static/admin/css/dark_mode.css
+Not Found: /static/admin/css/responsive.css
+Not Found: /static/admin/css/nav_sidebar.css
+Not Found: /static/admin/css/login.css
+Not Found: /static/admin/js/theme.js
+"GET /static/admin/css/responsive.css HTTP/1.1" 404 179
+"GET /static/admin/css/base.css HTTP/1.1" 404 179
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 404 179
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 404 179
+"GET /static/admin/css/login.css HTTP/1.1" 404 179
+"GET /static/admin/js/theme.js HTTP/1.1" 404 179
+Not Found: /static/admin/js/nav_sidebar.js
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 404 179
+Internal Server Error: /api/users/signup/
+Traceback (most recent call last):
+  File "C:\Users\Manthan\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Manthan\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Manthan\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Manthan\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\viewsets.py", line 124, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Manthan\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Manthan\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\Manthan\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Manthan\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "U:\Projects\task_management\tasks\views.py", line 32, in signup
+    return Response({"error": "Username already exists."}, status=status.HTTP_409_BAD_REQUEST)
+                                                                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: module 'rest_framework.status' has no attribute 'HTTP_409_BAD_REQUEST'. Did you mean: 'HTTP_400_BAD_REQUEST'?
+"POST /api/users/signup/ HTTP/1.1" 500 145
